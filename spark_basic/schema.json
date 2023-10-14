@@ -1,0 +1,24 @@
+{
+    "type" : "struct", 
+    "fields" : [ {
+        "name" : "Number", 
+        "type" : "integer", 
+        "nullable" : true, 
+        "metadata" : { }
+    }, {
+        "name" : "City", 
+        "type" : "string",
+        "nullable" : true,
+        "metadata" : { } 
+    }, {
+        "name" : "Age", 
+        "type" : "float", 
+        "nullable" : true, 
+        "metadata" : { }
+    }, {
+        "name" : "Decommissioned", 
+        "type" : "bool", 
+        "nullable" : true, 
+        "metadata" : { }
+    }] 
+}
